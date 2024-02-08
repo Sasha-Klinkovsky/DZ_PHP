@@ -1,0 +1,24 @@
+.avtor {
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.user {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.name {
+    margin-top: 10px;
+}
+
+.submit {
+    width: 180px;
+    height: 30px;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(81, 171, 207);
+    border: 0;
+    border-radius: 5px;
+    font-weight: bold;
+}
